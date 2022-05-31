@@ -1,7 +1,9 @@
-DynBindingDemo is a demonstration project using  the InvokeDLL class which allows you to execute methods from a DLL dynamically.
-The DLL will be unloaded after using it so you can easily replace or update it at runtime.
+# InvokeDLL class
 
-To use InvokeDLL class, simply add it to your Visual Studio project, copy the DLL that needs to be   dynamically loaded in the same directory as your executable (bin/debug)
+DynBindingDemo is a demonstration project using  the **InvokeDLL** class which allows you to execute methods from a DLL dynamically.
+The DLL will be unloaded after using it so **you can easily replace or update it at runtime**.
+
+To use **InvokeDLL** class, simply add it to your Visual Studio project, copy the DLL that needs to be   dynamically loaded in the same directory as your executable (bin/debug)
 
 Here is  sample code:
 
